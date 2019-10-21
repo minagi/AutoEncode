@@ -1,0 +1,75 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="PostRec.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="BonTsDemuxPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\OnlineSoft\PT2\BonTsDemux\BonTsDemux.exe</Value>
+    </Setting>
+    <Setting Name="ffmpegPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\OnlineSoft\PT2\ffmpeg\bin\ffmpeg.exe</Value>
+    </Setting>
+    <Setting Name="LogoDir" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\OnlineSoft\AviUtil\otherfile\lgd</Value>
+    </Setting>
+    <Setting Name="AVS2YUVPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\OnlineSoft\AviUtil\otherfile\avs2yuv\avs2yuv.exe</Value>
+    </Setting>
+    <Setting Name="M2VVFPPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\OnlineSoft\AviUtil\otherfile\logoGuillo\m2v.vfp</Value>
+    </Setting>
+    <Setting Name="LogoGuilloPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\OnlineSoft\AviUtil\otherfile\logoGuillo\logoGuillo.exe</Value>
+    </Setting>
+    <Setting Name="AviutlPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\OnlineSoft\AviUtil\aviutl.exe</Value>
+    </Setting>
+    <Setting Name="FilterTemplatePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\OnlineSoft\AviUtil\otherfile\txt\filtertemplate.txt</Value>
+    </Setting>
+    <Setting Name="PreFilterPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\OnlineSoft\AviUtil\otherfile\txt\prefilter.txt</Value>
+    </Setting>
+    <Setting Name="PostFilterDelogoPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\OnlineSoft\AviUtil\otherfile\txt\postfilterDelogo.txt</Value>
+    </Setting>
+    <Setting Name="PostFilterSizePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\OnlineSoft\AviUtil\otherfile\txt\postfilterSize.txt</Value>
+    </Setting>
+    <Setting Name="PostFilterAnimePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\OnlineSoft\AviUtil\otherfile\txt\postfilterAnime.txt</Value>
+    </Setting>
+    <Setting Name="OutputDir" Type="System.String" Scope="User">
+      <Value Profile="(Default)">E:\Video\Encoded</Value>
+    </Setting>
+    <Setting Name="AUCDir" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\OnlineSoft\AviUtil\otherfile\auc</Value>
+    </Setting>
+    <Setting Name="ConvertedFilePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">E:\Video\ConvertedTS</Value>
+    </Setting>
+    <Setting Name="DefaultEncoderArgs" Type="System.String" Scope="User">
+      <Value Profile="(Default)">%1 %2</Value>
+    </Setting>
+    <Setting Name="DefaultEncoderPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="LogFileName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">.\postrec.log</Value>
+    </Setting>
+    <Setting Name="S0ServicePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="T0ServicePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="AviutilProfileNum" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="AviutilPlugoutNum" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="ErrorFilePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">E:\Video\ErrorFile</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
